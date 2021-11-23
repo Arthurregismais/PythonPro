@@ -10,3 +10,4 @@ Tópicos para serem discutidos:
 
 1. Git
 2. Virtualenv
+3. Pip
